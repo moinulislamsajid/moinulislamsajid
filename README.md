@@ -46,6 +46,13 @@ Through continuous learning, analytical thinking, and problem solving, I aim to 
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/MoinulIslamSajid)
 
 
+## 💻 Programming Languages
+
+[![Java Badge](https://img.shields.io/badge/-Java-F89820?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=F89820)](#)
+[![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![C Badge](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=black)](#)
+
 ### 🛠 Problem Solving Language  
 
 [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](#)  
