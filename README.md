@@ -40,10 +40,7 @@ Through continuous learning, analytical thinking, and problem solving, I aim to 
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)](#)
 
-## ⚡ Problem Solving  Profile
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&labelColor=black&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Moinul_Islam_Sajid)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Moinul_islam_Sajid/)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/MoinulIslamSajid)
+
 
 
 ## 💻 Programming Languages
@@ -56,6 +53,13 @@ Through continuous learning, analytical thinking, and problem solving, I aim to 
 ### 🛠 Problem Solving Language  
 
 [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](#)  
+
+
+## ⚡ Problem Solving  Profile
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&labelColor=black&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Moinul_Islam_Sajid)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&labelColor=black&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Moinul_islam_Sajid/)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/MoinulIslamSajid)
+
 
 
   <div>
