@@ -59,7 +59,7 @@ Through continuous learning, analytical thinking, and problem solving, I aim to 
 
 </div>
 
-<div align="center">
+<div>
 
 ## 📊 LeetCode Stats
 
