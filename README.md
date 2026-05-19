@@ -63,12 +63,6 @@ Through continuous learning, analytical thinking, and problem solving, I aim to 
 
 ## ⚡ LeetCode Stats
 
-<img src="https://leetcard.jacoblin.cool/Moinul_islam_Sajid?theme=dark&ext=heatmap" />
-
-<img src="https://leetcard.jacoblin.cool/Moinul_islam_Sajid?theme=dark" />
-
-<br/>
-
 <img src="https://leetcard.jacoblin.cool/Moinul_islam_Sajid?theme=dark&ext=contest" />
 
 </div>
