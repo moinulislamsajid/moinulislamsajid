@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Java+Developer;I'm+a+Researcher;I'm+a+Problem+Solver" alt="Typing SVG" />
 </p>
 
-### Hi there👋
 
 I am a passionate Computer Science and Engineering student with strong interests in Research, Software Development, and Problem Solving. I am currently focusing on Java Full Stack Development while continuously improving my skills in Java, Python, C++, and modern technologies.
 I am deeply interested in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision. My research interests include image processing, facial expression recognition, medical image analysis, object detection, and intelligent visual systems. I enjoy exploring how AI-driven technologies can solve real-world problems and create positive impact through innovation.
