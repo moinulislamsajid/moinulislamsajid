@@ -59,12 +59,9 @@ Through continuous learning, analytical thinking, and problem solving, I aim to 
 
 </div>
 
-<div>
-   <h1>LeetCode Stats Cards</h1>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Moinul_islam_Sajid?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Moinul_islam_Sajid/)<br>
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Moinul_islam_Sajid?theme=dark)](https://leetcode.com/u/Moinul_islam_Sajid/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Moinul_islam_Sajid?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/Moinul_islam_Sajid/)
 
-</div>
+
 :coffee: &emsp;Connect with me!
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-moinul-islam-sajid-598694276/)
